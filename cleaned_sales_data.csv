@@ -1,0 +1,5 @@
+transaction_id,product_name,category,price,quantity,customer_email,total_sales
+101,Laptop,electronics,1200.5,1.0,john.doe@example.com,1200.5
+105,Monitor,electronics,300.0,1.0,mary.white@example.com,300.0
+107,Headphones,electronics,99.99,2.0,Unknown,199.98
+109,External SSD,electronics,250.0,1.0,lisa.green@example.com,250.0
